@@ -1,6 +1,6 @@
 ***I know that I am intelligent because I know that I know nothing*** - Socrates
 
-![img](https://github.com/BehnamAxo/BehnamAxo/blob/main/images/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png)
+<img src="https://github.com/BehnamAxo/BehnamAxo/blob/main/images/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="10%" height="10%">
 <!--
 **BehnamAxo/BehnamAxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
